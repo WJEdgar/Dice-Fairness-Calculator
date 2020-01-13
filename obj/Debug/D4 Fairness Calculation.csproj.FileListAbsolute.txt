@@ -1,0 +1,7 @@
+c:\users\wjedg\source\repos\D4 Fairness Calculation\D4 Fairness Calculation\bin\Debug\D4 Fairness Calculation.exe.config
+c:\users\wjedg\source\repos\D4 Fairness Calculation\D4 Fairness Calculation\bin\Debug\D4 Fairness Calculation.exe
+c:\users\wjedg\source\repos\D4 Fairness Calculation\D4 Fairness Calculation\bin\Debug\D4 Fairness Calculation.pdb
+c:\users\wjedg\source\repos\D4 Fairness Calculation\D4 Fairness Calculation\obj\Debug\D4 Fairness Calculation.csprojResolveAssemblyReference.cache
+c:\users\wjedg\source\repos\D4 Fairness Calculation\D4 Fairness Calculation\obj\Debug\D4 Fairness Calculation.csproj.CoreCompileInputs.cache
+c:\users\wjedg\source\repos\D4 Fairness Calculation\D4 Fairness Calculation\obj\Debug\D4 Fairness Calculation.exe
+c:\users\wjedg\source\repos\D4 Fairness Calculation\D4 Fairness Calculation\obj\Debug\D4 Fairness Calculation.pdb
